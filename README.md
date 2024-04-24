@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-![Imagen de Portada](recursos/T)
+![Imagen de Portada](Recursos/T.jpg)
 
 ## Descripción
 
